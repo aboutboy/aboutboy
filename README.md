@@ -1,5 +1,5 @@
 ### Hi there 👋
-![aboutboy's github stats](https://github-readme-stats.vercel.app/api?username=aboutboy&show_icons=true)
+![aboutboy's github stats](https://github-readme-stats.vercel.app/api?username=aboutboy&show_icons=true&theme=radical)
 
 <!--
 **aboutboy/aboutboy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
